@@ -1,0 +1,37 @@
+{
+  "Accounts": [
+    {
+      "id": 1,
+      "name": "Facade Account",
+      "balance": 5000
+    },
+    {
+      "id": 2,
+      "name": "Main Account",
+      "balance": 1000
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name": "Special Category",
+      "type": "Expense"
+    },
+    {
+      "id": 2,
+      "name": "Cafe",
+      "type": "Expense"
+    }
+  ],
+  "Operations": [
+    {
+      "id": 1,
+      "type": "Expense",
+      "bankAccountId": 2,
+      "amount": 500,
+      "date": "2025-03-12T21:18:43.1757215+03:00",
+      "description": "Lunch",
+      "category_id": 2
+    }
+  ]
+}

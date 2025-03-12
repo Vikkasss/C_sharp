@@ -1,0 +1,39 @@
+
+==== TESTING PATTERNS ====
+
+
+COMMAND PATTERN
+[SUCCESS] Operation created successfully!
+[SUCCESS] Operation undo successfully!
+
+FACADE PATTERN
+
+==== EXPORT/IMPORT TESTING ====
+
+
+JSON IMPORT TEST
+[INFO] 
+Validation Results:
+[SUCCESS] Accounts: 2 records
+[SUCCESS] Categories: 2 records
+[SUCCESS] Operations: 1 records
+[SUCCESS] 
+JSON import test completed successfully!
+
+YAML IMPORT TEST
+[INFO] 
+Validation Results:
+[SUCCESS] Accounts: 2 records
+[SUCCESS] Categories: 2 records
+[SUCCESS] Operations: 1 records
+[SUCCESS] 
+YAML import test completed successfully!
+
+CSV IMPORT TEST
+[INFO] 
+Validation Results:
+[SUCCESS] Accounts: 2 records
+[SUCCESS] Categories: 2 records
+[SUCCESS] Operations: 1 records
+[SUCCESS] 
+CSV import test completed successfully!

@@ -1,0 +1,2 @@
+id;type;bankAccountId;amount;date;description;category_id
+1;Expense;2;500;03/12/2025 21:18:43;Lunch;2
