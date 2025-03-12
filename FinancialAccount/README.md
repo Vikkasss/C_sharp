@@ -3,8 +3,11 @@
 
 # Структура проекта
 - `Models/`
-    - BankAccount.cs
-2. `Patterns/`
+    - BankAccount.cs - модель банковского счета
+    - Category.cs - модель категории операций
+    - Operation.cs - модель финансовой операции
+    - FinancialData.cs - контейнер для всех данных (счета, категории, операции)
+- `Patterns/`
 3. `Services/`
 4. `Testing/`
 5. \texttt{Program.cs}
