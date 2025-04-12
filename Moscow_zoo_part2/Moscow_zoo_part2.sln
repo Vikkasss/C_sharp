@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Moscow_zoo_part2", "Moscow_zoo_part2\Moscow_zoo_part2.csproj", "{A08B368F-96C7-48CE-B534-7336734F41DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A08B368F-96C7-48CE-B534-7336734F41DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A08B368F-96C7-48CE-B534-7336734F41DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A08B368F-96C7-48CE-B534-7336734F41DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A08B368F-96C7-48CE-B534-7336734F41DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
